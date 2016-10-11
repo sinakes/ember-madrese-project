@@ -5,7 +5,7 @@ const Router = Ember.Router.extend({
   location: config.locationType,
   rootURL: config.rootURL
 });
-
+//remove this comment
 Router.map(function() {
 });
 
